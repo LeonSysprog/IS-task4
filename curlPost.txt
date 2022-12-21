@@ -1,0 +1,1 @@
+curl http://localhost:8080/registrate --header "Content-Type: application/json" --request "POST" --data '{"usr": "testUsr","pwd": "testPwd"}'
